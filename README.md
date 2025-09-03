@@ -1,11 +1,11 @@
-# 🚀 Launching a Static Website on Linux EC2
+# Launching a Static Website on Linux EC2
 
 This project demonstrates how to host a **static website (HTML, CSS, JS)** on an **Amazon EC2 instance** running Linux.  
 It covers the complete workflow from creating an EC2 instance to making the website publicly accessible.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 - Deployed a static website on **AWS EC2 (Linux-based)**.
 - Configured **Apache Web Server** to serve the website.
 - Secured inbound traffic with **Security Groups**.
@@ -13,7 +13,7 @@ It covers the complete workflow from creating an EC2 instance to making the webs
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Amazon Web Services (AWS)**
   - EC2 (Elastic Compute Cloud)
   - Security Groups
@@ -24,7 +24,7 @@ It covers the complete workflow from creating an EC2 instance to making the webs
 
 ---
 
-## ⚙️ Steps to Deploy
+## Steps to Deploy
 
 1. **Launch EC2 Instance**
    - provide a name for ypur instance.(cafe bliss)
