@@ -74,8 +74,9 @@ It covers the complete workflow from creating an EC2 instance to making the webs
      
    <img width="1046" height="322" alt="image" src="https://github.com/user-attachments/assets/4d1de7f7-18db-4cc8-b736-7273efb35c80" />
    - move your files to  apache default root directory (/var/www/html)
-     ```bash
+     ```
       sudo mv index.html style.css script.js /var/www/html
+     ```
    <img width="757" height="111" alt="image" src="https://github.com/user-attachments/assets/95988fb8-033d-4b7c-8a8d-4f659e144a09" />
 
 
